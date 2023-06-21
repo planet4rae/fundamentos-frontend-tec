@@ -1,0 +1,4 @@
+Practica de texto
+se creó ese archivo en gitbash escribiendo lo siguiente
+nano archivo.txt
+luego escribes, le das en guardar y ctrl+x para salir de la terminal de nano.
